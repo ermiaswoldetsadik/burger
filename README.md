@@ -22,6 +22,7 @@ A burger logger web application that uses MySQL, Node, Express, Handlebars, and 
 - ORM
 - MVC
 
+<img src="public\assets\img\burger front.PNG" width="400" height="400">
 
 
 
