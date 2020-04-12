@@ -11,7 +11,8 @@ A burger logger web application that uses MySQL, Node, Express, Handlebars, and 
 * The app stores every burger in a database, whether eaten or not.
 
 ### Technologies Used
-HTML, CSS, JavaScript, jQuery, MySQL, Node.js, Express.js, Handlebars, ORM, MVC
+HTML,
+CSS, JavaScript, jQuery, MySQL, Node.js, Express.js, Handlebars, ORM, MVC
 
 
 
