@@ -17,7 +17,7 @@ A burger logger web application that uses MySQL, Node, Express, Handlebars, and 
 - jQuery
 - MySQL
 - Node.js 
-Express.js, 
+Express.js 
 Handlebars,
  ORM, 
  MVC
