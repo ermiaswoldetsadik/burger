@@ -12,7 +12,7 @@ A burger logger web application that uses MySQL, Node, Express, Handlebars, and 
 
 ### Technologies Used
 - HTML,
-CSS, JavaScript, jQuery, MySQL, Node.js, Express.js, Handlebars, ORM, MVC
+- CSS, JavaScript, jQuery, MySQL, Node.js, Express.js, Handlebars, ORM, MVC
 
 
 
